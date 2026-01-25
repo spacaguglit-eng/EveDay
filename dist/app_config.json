@@ -1,0 +1,17 @@
+{
+    "file_paths": [
+        "C:\\Users\\bglushuk\\Desktop\\EveDay\\Отчеты\\Сменный отчет линия № 1 - 1,8 л..xlsx",
+        "C:\\Users\\bglushuk\\Desktop\\EveDay\\Отчеты\\Сменный отчет линия № 2 - 0,25 л..xlsx",
+        "C:\\Users\\bglushuk\\Desktop\\EveDay\\Отчеты\\Сменный отчет линия № 3 - 0,75 - 1,0 л...xlsx",
+        "C:\\Users\\bglushuk\\Desktop\\EveDay\\Отчеты\\Сменный отчет линия № 4 - 0,33 л...xlsx",
+        "C:\\Users\\bglushuk\\Desktop\\EveDay\\Отчеты\\Сменный отчет линия № 5 - Сиропы 0,25 л. - 1,0 л..xlsx",
+        "C:\\Users\\bglushuk\\Desktop\\EveDay\\Отчеты\\Сменный отчет линия № 6 - Bag in Box 3,0 л..xlsx",
+        "C:\\Users\\bglushuk\\Desktop\\EveDay\\Отчеты\\Сменный отчет линия № 7 - Топпинги.xlsx",
+        "C:\\Users\\bglushuk\\Desktop\\EveDay\\Отчеты\\Сменный отчет линия № 8 - Соусы.xlsx",
+        "C:\\Users\\bglushuk\\Desktop\\EveDay\\Отчеты\\Сменный отчет линия № 9 - Первичная переработка.xlsx",
+        "C:\\Users\\bglushuk\\Desktop\\EveDay\\Отчеты\\Сменный отчет линия № 10 - ПЭТ.xlsx",
+        ""
+    ],
+    "min_downtime": 10,
+    "excluded_categories": "Плановые"
+}
